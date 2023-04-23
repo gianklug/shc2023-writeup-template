@@ -1,7 +1,7 @@
 shc2023-writeup-template
 ---
 
-My Pandoc/Markdown/LaTeX template for the [Swiss Hacking Challenge 2023](https://swiss-hacking-challenge.ch).
+My Pandoc/Markdown/LaTeX template for the [Swiss Hacking Challenge 2023](https://swiss-hacking-challenge.ch). Feel free to use this for your own writeups.
 
 This uses pandoc and the [eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) template to create a nice PDF from Markdown. Using inline LaTeX is also possible :D
 
